@@ -22,3 +22,9 @@ Patterns
 
 - [Head First: Design Patterns](http://www.headfirstlabs.com/books/hfdp/)
 - [Agile Principles, Patterns, and Practices in C#](http://www.pearsonhighered.com/educator/product/Agile-Principles-Patterns-and-Practices-in-C/9780131857254.page)
+
+Common Sense
+------------
+
+- [Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
+- [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer)
