@@ -21,7 +21,8 @@ Patterns
 --------
 
 - [Head First: Design Patterns](http://www.headfirstlabs.com/books/hfdp/)
-- [Agile Principles, Patterns, and Practices in C#](http://www.pearsonhighered.com/educator/product/Agile-Principles-Patterns-and-Practices-in-C/9780131857254.page) Oncle Bob demonstrating 'how not to do it' and then 'cleaning up'.
+- [Agile Principles, Patterns, and Practices in C#](http://www.pearsonhighered.com/educator/product/Agile-Principles-Patterns-and-Practices-in-C/9780131857254.page) 
+	Oncle Bob demonstrating 'how not to do it' and then 'cleaning up'.
 
 Common Sense
 ------------
