@@ -22,6 +22,7 @@ Patterns
 
 - [Head First: Design Patterns](http://www.headfirstlabs.com/books/hfdp/)
 - [Agile Principles, Patterns, and Practices in C#](http://www.pearsonhighered.com/educator/product/Agile-Principles-Patterns-and-Practices-in-C/9780131857254.page)
+- [Domain Driven Design](http://www.amazon.de/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
 Common Sense
 ------------
