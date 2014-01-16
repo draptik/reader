@@ -29,3 +29,7 @@ Common Sense
 
 - [Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
 - [The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/draptik/reader/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
